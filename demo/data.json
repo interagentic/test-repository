@@ -1,0 +1,8 @@
+{
+  "name": "GitHubFS",
+  "version": "1.0.0",
+  "features": [
+    "instant",
+    "commit"
+  ]
+}
